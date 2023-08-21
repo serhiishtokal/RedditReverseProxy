@@ -1,2 +1,2 @@
 # RedditReverseProxy
-a "proxy" that will return the modified text of reddit.com 
+a reverse "proxy" that returns the modified text of reddit.com 
